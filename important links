@@ -1,0 +1,74 @@
+Installation of Packages:
+For installing the above mentioned python packages please follow the procedure mentioned below.
+
+For installing new packages, system must be connected through internet.
+
+Press start in windows and search for "Anaconda Prompt". When you will click on the application, a prompt window will be open,wait for few seconds.
+
+You can check/ install any package in Anaconda Python by..
+      pip install package_name
+
+f-ex: pip install numpy
+and press Enter key after typing these commands.
+
+Note. If you are installing numpy like this, it will give requirement already satisfied message on the prompt. that means package is already installed in the anaconda python.
+
+Installing Opencv for Image processing
+Start the Anaconda Prompt: Press start in windows and search for "Anaconda Prompt". when you will click on the application, a prompt window will be open, wait for few seconds.
+
+type command:
+pip install opencv-python
+press Enter.
+
+Installing Tensorflow and Keras:
+Start the Anaconda Prompt in administrator mode: Press start in “windows”, type “Anaconda Prompt”, and right click on the application and click “Run as Administrator”.
+
+Repeat step 2 
+f.ex- pip install tensorflow
+pip install keras
+
+
+Help: You can also take help of YouTube video: https://www.youtube.com/watch?v=z0qhKP2liHs for sample installation of Anaconda + Tensorflow + Keras
+
+Note: If you want to work with regular python installed from (https://www.python.org/downloads/), installation of numpy, pandas, sklearn, ntlk, tensorflow, keras libraries can be still done using “pip install” command similar to step 2 and 3. However, installation of Anaconda Python is highly encouraged rather than naïve python.
+
+Others useful platforms
+Tensorflow using Google Colab
+Sign-in using Google Account to access free Online Tensorflow notebooks at http://colab.research.google.com/
+
+GitHub Account
+To join GitHub, the world's leading software development platform, visit the following URL. https://github.com/
+
+GitHub is widely used for open-source software development, you can use it to
+
+Make your project repositories easily accessible from anywhere
+Maintain history and control versions easily
+Collaborate with other developers that helps you to develop a network
+Fork other developer's repositories and can show up your work to them.
+Build a profile to impress the recruiter
+
+
+Useful links to go through before the workshop
+GitHub Links:
+
+https://github.com/ChristosChristofidis/awesome-deep-learning
+
+https://github.com/endymecy/awesome-deeplearning-resources 
+
+http://egrcc.github.io/resources/ 
+
+Blogs:
+
+https://www.blog.google/topics/machine-learning/ 
+
+http://deeplearninggallery.com/ 
+
+https://blogs.nvidia.com/blog/category/deep-learning/ 
+
+https://www.ibm.com/blogs/systems/topics/deep-learning/ 
+
+Book and other Resources: ML Basic 
+
+http://egrcc.github.io/docs/dl/deeplearningbook-ml.pdf 
+
+http://neuralnetworksanddeeplearning.com/chap1.html 
